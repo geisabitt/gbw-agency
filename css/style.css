@@ -23,7 +23,7 @@ header,
   padding-bottom: 0;
 }
 #logo {
-  width: 75px;
+  height: 50px;
 }
 .navbar-brand {
   padding: 0;
@@ -65,7 +65,7 @@ header,
   color: #fff;
 }
 .main-btn {
-  background-color: #3f222f;
+  background-color: #ff75b3;
   color: #fff;
   text-transform: uppercase;
   width: 200px;
@@ -76,15 +76,15 @@ header,
   transition: 0.6s;
 }
 .main-btn:hover{
-    color: #ffb9d9;
+    color: #ff75b3;
     text-decoration: none;
     background-color: transparent;/*rgb(255, 255, 255, 0.25)*/
-    border-color: #ffb9d9;
+    border-color: #ff75b3;
 }
 .carousel-indicators .active{
-    background-color: #3f222f;
+    background-color: #ff75b3;
 }
-/*Sobre a Empresa*/
+/*Sobre a Desenvolvedora*/
 #about-area{
   background-color: #f9f9f9;
 }
@@ -107,18 +107,35 @@ header,
   color: #444;
   text-transform: uppercase;
   font-weight: bold;
-  margin-bottom: 30px;
 }
 #about-list{
   list-style: none;
   padding-left: 0;
 }
 #about-list li{
-  line-height: 40px;
+  line-height: 20px;
 }
 #about-list i{
-  color: #3f222f;
+  color: #ff75b3;
   margin-right: 15px;
 }
-
-
+/* Habilidades */
+.service-box{
+  text-align: center;
+  margin-bottom: 50px;
+}
+.service-box i, .service-box h4{
+  transition: 0.6s;
+}
+.service-box i{
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: #444;
+}
+.service-box h4{
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+.service-box:hover > i, .service-box:hover > h4{
+  color: #ff75b3;
+}

@@ -3,7 +3,7 @@
 - [x] Navbar
 - [x] Slide / Carrocel
 - [x] Sobre
-- [ ] Especialidades
+- [x] Habilidades
 - [ ] Parallax com Bootstrap
 - [ ] Bootstrap Card
 - [ ] Grid com Parallax
@@ -11,6 +11,4 @@
 - [ ] Formulário
 - [ ] Responsividade para tablet
 - [ ] Responsividade para celular
-- [ ] Sobre
-- [ ] Especialidades
 - [ ] Scroll animado
