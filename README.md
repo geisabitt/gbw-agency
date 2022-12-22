@@ -1,7 +1,7 @@
 ### Desenvolvimento do Site Agency
 
 - [x] Navbar
-- [ ] Slide / Carrocel
+- [x] Slide / Carrocel
 - [ ] Sobre
 - [ ] Especialidades
 - [ ] Parallax com Bootstrap
