@@ -76,11 +76,49 @@ header,
   transition: 0.6s;
 }
 .main-btn:hover{
-    color: #3f222f;
+    color: #ffb9d9;
     text-decoration: none;
-    background-color: #fff;
-    border-color: #3f222f;
+    background-color: transparent;/*rgb(255, 255, 255, 0.25)*/
+    border-color: #ffb9d9;
 }
 .carousel-indicators .active{
     background-color: #3f222f;
 }
+/*Sobre a Empresa*/
+#about-area{
+  background-color: #f9f9f9;
+}
+.main-title{
+  color: #444;
+  margin: 0 0 65px 0;
+  font-size: 40px;
+  text-align: center;
+}
+.main-title::after{
+  content: "";
+  border-top: 2px solid #333;
+  width: 15%;
+  position: absolute;
+  top: 60px;
+  left: 42.5%;
+}
+.about-title{
+  font-size: 17px;
+  color: #444;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+#about-list{
+  list-style: none;
+  padding-left: 0;
+}
+#about-list li{
+  line-height: 40px;
+}
+#about-list i{
+  color: #3f222f;
+  margin-right: 15px;
+}
+
+

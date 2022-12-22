@@ -2,7 +2,7 @@
 
 - [x] Navbar
 - [x] Slide / Carrocel
-- [ ] Sobre
+- [x] Sobre
 - [ ] Especialidades
 - [ ] Parallax com Bootstrap
 - [ ] Bootstrap Card
