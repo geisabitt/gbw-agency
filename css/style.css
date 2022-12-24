@@ -139,3 +139,58 @@ header,
 .service-box:hover > i, .service-box:hover > h4{
   color: #ff75b3;
 }
+/* Dados */
+.circle-box div{
+  padding:  0 40px;
+}
+.progressbar-text{
+  font-weight: bold;
+  font-size: 60px;
+}
+#data-area p{
+  color: #fff;
+  text-align: center;
+  font-size: 26px;
+  margin-top: 20px;
+}
+/* hobbies */
+.card-body{
+  text-align: center;
+}
+/*Desafio*/
+#apply-area {
+  height: 500px;
+}
+
+#apply-area .container-fluid, #apply-area .row {
+  height: 100%;
+}
+
+#apply-area .apply-box {
+  padding: 70px 50px;
+  text-align: center;
+}
+
+#company-img {
+  background-image: url('../img/empresa.jpg');
+  background-size: cover;
+  height: 100%;
+}
+
+#pattern-img h4, #pattern-img p {
+  color: #FFF;
+}
+
+#pattern-img h4 {
+  margin-top: 8%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+#pattern-img p {
+  margin-bottom: 20px;
+}
+#apply-btn{
+  margin-left: auto;
+  margin-right: auto;
+}

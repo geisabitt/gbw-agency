@@ -4,9 +4,9 @@
 - [x] Slide / Carrocel
 - [x] Sobre
 - [x] Habilidades
-- [ ] Parallax com Bootstrap
-- [ ] Bootstrap Card
-- [ ] Grid com Parallax
+- [x] Parallax com Bootstrap
+- [x] Bootstrap Card
+- [x] Grid com Parallax
 - [ ] Filtro com Bootstrap e Javascript
 - [ ] Formulário
 - [ ] Responsividade para tablet
