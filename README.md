@@ -8,7 +8,7 @@
 - [x] Bootstrap Card
 - [x] Grid com Parallax
 - [x] Filtro com Bootstrap e Javascript
-- [ ] Formulário
+- [x] Formulário
 - [ ] Responsividade para tablet
 - [ ] Responsividade para celular
 - [ ] Scroll animado

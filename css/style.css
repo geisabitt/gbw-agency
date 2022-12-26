@@ -222,3 +222,76 @@ header,
   box-shadow: 0 0 0 0;
   outline: 0;
 }
+#news-area{
+  text-align: center;
+  background-color: #dddddd;
+}
+#news-area p{
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+#email-input{
+  border-radius: 0;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border: 1px solid #ff75b3;
+  display: inline;
+  box-sizing: border-box;
+  width: 40%;
+  height: 40px;
+}
+#news-btn{
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: #ff75b3;
+  border: 1px solid #ff75b3;
+  box-sizing: border-box;
+  height: 40px;
+  padding: 0 30px;
+  margin-left: -130px;
+  position: absolute;
+  transition: 0.6s;
+}
+#news-btn:hover{
+  color: #ff75b3;
+  background-color: #fff;
+}
+
+/* call to action*/
+
+#call-area {
+  background-color: #ff75b3;
+  text-transform: uppercase;
+}
+
+#call-area .container {
+  padding: 40px 100px;
+}
+
+#call-area .row {
+  display: block;
+  text-align: center;
+}
+
+#call-area p {
+  color: #FFF;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 0;
+  height: 60px;
+  line-height: 60px;
+  letter-spacing: 2px;
+  display: inline;
+}
+
+#call-area #call-btn {
+  background-color: #FFF;
+  color: #ff75b3;
+  font-weight: bold;
+  margin-left: 30px;
+  font-size: 20px;
+  width: auto;
+  letter-spacing: 2px;
+}
