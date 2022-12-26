@@ -194,3 +194,31 @@ header,
   margin-left: auto;
   margin-right: auto;
 }
+
+/* Portifólio */
+.project-box{
+  margin-bottom: 30px;
+}
+#filter-btn-box{
+  margin-bottom: 50px;
+  text-align: center;
+}
+#portifolio-area .filter-btn{
+  color:#444;
+  border: 1px solid #444;
+  background-color: transparent;
+  text-transform: none;
+  margin: 0 15px;
+  min-width: 100px;
+  width: auto;
+  height: 40px;
+  line-height: 40px;
+  padding: 0 20px;
+}
+#portifolio-area .filter-btn.active, #portifolio-area .filter-btn:hover{
+  color: #FFF;
+  background-color: #ff75b3;
+  border: #ff75b3;
+  box-shadow: 0 0 0 0;
+  outline: 0;
+}
