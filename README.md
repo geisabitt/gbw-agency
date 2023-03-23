@@ -9,6 +9,7 @@
 - [x] Grid com Parallax
 - [x] Filtro com Bootstrap e Javascript
 - [x] Formulário
-- [ ] Responsividade para tablet
-- [ ] Responsividade para celular
-- [ ] Scroll animado
+- [x] Responsividade para tablet
+- [x] Responsividade para celular
+- [x] Scroll animado
+- [x] Envio de Mensagem Whatsapp
