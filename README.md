@@ -1,6 +1,3 @@
-# deploy
-https://geisabitt.github.io/gbwAgency/
-
 ### Desenvolvimento do Site Agency
 
 - [x] Navbar
